@@ -1,2 +1,3 @@
 movie name:Asuran;
 Song:Kannama
+Hero :Rajinikanth
